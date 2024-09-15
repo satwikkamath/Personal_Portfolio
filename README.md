@@ -7,10 +7,6 @@ Welcome to my personal portfolio! This site is a reflection of my journey as an 
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
 
 ## About
 
