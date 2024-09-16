@@ -71,7 +71,7 @@ function Education() {
           </div>
           <div className="text-white text-left">
             <h3 className="text-2xl font-bold mb-4">
-              Pre-Primary, Primary, and High School
+              Pre-Primary, Primary, and High School - 2006 to 2019
             </h3>
             <h4 className="text-xl font-bold mb-2">
               Poorna Prajna Education Centre, Bhadravathi
@@ -106,7 +106,9 @@ function Education() {
             />
           </div>
           <div className="text-white text-left">
-            <h3 className="text-2xl font-bold mb-4">Pre-University</h3>
+            <h3 className="text-2xl font-bold mb-4">
+              Pre-University - 2019 to 2021
+            </h3>
             <h4 className="text-xl font-bold mb-2">
               Malnad PU College (Deeksha), Shivamogga
             </h4>
@@ -136,7 +138,9 @@ function Education() {
             />
           </div>
           <div className="text-white text-left">
-            <h3 className="text-2xl font-bold mb-4">Engineering</h3>
+            <h3 className="text-2xl font-bold mb-4">
+              Engineering - 2021 to 2025
+            </h3>
             <h4 className="text-xl font-bold mb-2">
               Ramaiah Institute of Technology
             </h4>
