@@ -133,6 +133,11 @@ function Projects() {
                 githubLink="https://github.com/satwikkamath/LED_Driver_PCB_Design"
               />
               <ProjectCard
+                title="PCB Design for ESP32 microcontroller with Temperature sensor and RGB LED."
+                description="This project focuses on designing a custom PCB using the ESP32-S3-MINI-1-N8 microcontroller. The PCB integrates a temperature and humidity sensor, a RGB LED, and a power regulation system. The design also includes TVS protection diodes for USB input safety. The PCB was designed using KiCad."
+                githubLink="https://github.com/satwikkamath/ESP32_with_temp_sensor_PCB_Design"
+              />
+              <ProjectCard
                 title="Morse Code Generator using LPC2148 and Proteus"
                 description="The Morse Code Generator project aims to develop an embedded system that converts text input into Morse code signals. It utilizes the LPC2148 microcontroller, a keypad for text input, an LCD for displaying the input text and corresponding Morse code, and either an LED or buzzer for generating Morse code signals."
                 githubLink="https://github.com/satwikkamath/Morse_Code_Generator_using_LPC2148"
